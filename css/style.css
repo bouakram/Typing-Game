@@ -26,7 +26,7 @@ body{
     font-weight: bold;
 }
 
-.defeculty{
+.levlSelct{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -57,6 +57,15 @@ body{
 }
 
 .container .start{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color:#b56576 ;
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+}
+.container .Restart{
     font-size: 20px;
     font-weight: bold;
     text-align: center;
